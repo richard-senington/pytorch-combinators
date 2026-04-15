@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/torch_combinators/__init__.py
+src/torch_combinators.egg-info/PKG-INFO
+src/torch_combinators.egg-info/SOURCES.txt
+src/torch_combinators.egg-info/dependency_links.txt
+src/torch_combinators.egg-info/requires.txt
+src/torch_combinators.egg-info/top_level.txt
+src/torch_combinators/combinators/__init__.py
+src/torch_combinators/evolving_combinators/__init__.py
