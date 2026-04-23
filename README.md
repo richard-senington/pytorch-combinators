@@ -17,7 +17,9 @@ ADVANTAGES OF CONCEPT?
 ## ResNet34
 DIAGRAM + CODE
 
-From the paper by [He et al (2016)](#resnet_reference) 
+Still under work!!!
+
+Diagram inspired by similar diagrams in the paper by [He et al (2016)](#resnet_reference) 
 
 <p align="center">
 <img src="./images/Resnet34_layers.png" alt="Bootstrap logo" width="70%" height="70%"/>
