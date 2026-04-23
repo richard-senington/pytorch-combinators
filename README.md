@@ -17,8 +17,20 @@ ADVANTAGES OF CONCEPT?
 ## ResNet34
 DIAGRAM + CODE
 
-<img src="./images/Resnet34_layers.png" alt="Bootstrap logo" width="70%" height="70%"/>
+From the paper by [He et al (2016)](#resnet_reference) 
 
+<p align="center">
+<img src="./images/Resnet34_layers.png" alt="Bootstrap logo" width="70%" height="70%"/>
+</p>
+
+
+
+# References
+
+<a id="resnet_reference"></a>
+- He, K., Zhang, X., Ren, S., Sun, J., 2016. Deep residual learning for image
+recognition, in: 2016 IEEE Conference on Computer Vision and Pattern
+Recognition (CVPR), pp. 770–778. [doi:10.1109/CVPR.2016.90](https://doi.org/10.1109/CVPR.2016.90).
 
 
 
