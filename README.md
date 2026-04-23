@@ -17,7 +17,8 @@ ADVANTAGES OF CONCEPT?
 ## ResNet34
 DIAGRAM + CODE
 
-![alt text](./images/Resnet34_layers.png "Title")
+<img src="./images/Resnet34_layers.png" alt="Bootstrap logo" width="70%" height="70%"/>
+
 
 
 
