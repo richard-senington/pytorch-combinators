@@ -17,7 +17,8 @@ ADVANTAGES OF CONCEPT?
 ## ResNet34
 DIAGRAM + CODE
 
+![alt text](./images/Resnet34_layers.png "Title")
 
-## Transformer
+
 
 
