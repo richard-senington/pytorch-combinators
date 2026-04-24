@@ -46,6 +46,4 @@ def my_resnet34(numClasses):
     exit_block = nn.AdaptiveAvgPool2d((1, 1)) |seq| nn.Flatten(1) |seq| nn.Linear(512, numClasses)
 
     return entry_block |seq| block1 |seq| block2 |seq| block3 |seq| block4 |seq| exit_block
-           
-           
-print(my_resnet34(7))
+         

@@ -3,4 +3,6 @@ Name: torch_combinators
 Version: 0.1.0
 Summary: A library of combinators for PyTorch
 Requires-Python: >=3.9
+License-File: LICENSE
 Requires-Dist: torch>=2.6.0
+Dynamic: license-file

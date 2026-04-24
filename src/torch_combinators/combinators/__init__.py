@@ -180,3 +180,16 @@ def position_encoding(position_encoder):
   return residual(position_encoder)
 
 
+def apply_first(f):
+  return lift(lambda x:(f(x[0]),x[1] ),innerNetworks=[f])
+
+def apply_second(f):
+  return lift(lambda x:(x[0],f(x[1]) ),innerNetworks=[f])
+
+def reset_weights(model):
+  """A little helper for use when I have made use of 'repeat', which uses deep copy.
+  This will resent/randomize all weights throughout a model"""
+  
+  for layer in model.modules():
+    if hasattr(layer, 'reset_parameters'):
+      layer.reset_parameters()     
